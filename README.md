@@ -12,7 +12,7 @@ Traffic signs video: <br>
 https://twitter.com/Gabrich888/status/1249096816571953152    <br>
 <br><br>
 
-![](images/img_1.jpg)
+<img src="images/img_1.jpg" height="800">
 <br>
 
 ### How does it work? <br>
@@ -24,9 +24,9 @@ When the laptop obtains these images, it processes them in the neural network an
 The repository contains all the code used, the programming part of the esp board is located in the "ESP32 files" folder.
 The training part and autonomous mode are in the "python files" folder. the 2 training files are .ipynb to open in jupyter or google colab.
 
-![](images/img_2.jpg)
-![](images/img_3.jpg) <br>
+<img src="images/img_2.jpg" height="800">
+<img src="images/img_3.jpg" height="800">
 
 The "autonomous_mode.py" file has the esp32 ip in the first circle of the next image, you have to change the ip in the code the times that the ip is changed to esp32
-<br> You also have to change all the routes, where you get images, and the models.
+<br> You also have to change all the routes, where you get images, and the models because these are local routes of my computer.
 ![](images/routes.png)
