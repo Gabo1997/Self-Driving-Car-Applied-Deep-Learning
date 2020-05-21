@@ -2,6 +2,14 @@
 ### This is a prototype of an autonomous car in which deep learning is applied and is controlled by the esp32-CAM board
 #### The car is able to identify roads and traffic signs and make decisions according to how it is trained using neural networks and convolutional neural networks using the keras and tensorflow libraries.
 <br><br>
+### Videos <br>
+finding lanes video: <br>
+https://twitter.com/Gabrich888/status/1250179099877756929   <br>
+Speed increase and decrease video:  <br>
+https://twitter.com/Gabrich888/status/1254627071273435137   <br>
+Traffic signs video: <br>
+https://twitter.com/Gabrich888/status/1249096816571953152    <br>
+<br><br>
 
 ![](images/img_1.jpg)
 <br>
