@@ -1,7 +1,8 @@
 # Self-Driving-Car-Applied-Deep-Learning <br>
 ### This is a prototype of an autonomous car in which deep learning is applied and is controlled by the esp32-CAM board
 #### The car is able to identify roads and traffic signs and make decisions according to how it is trained using neural networks and convolutional neural networks using the keras and tensorflow libraries.
-<br>
+<br><br>
+
 ![](images/img_1.jpg)
 <br>
 
