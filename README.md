@@ -29,4 +29,6 @@ The training part and autonomous mode are in the "python files" folder. the 2 tr
 
 The "autonomous_mode.py" file has the esp32 ip in the first circle of the next image, you have to change the ip in the code the times that the ip is changed to esp32
 <br> You also have to change all the routes, where you get images, and the models because these are local routes of my computer.
-![](images/routes.png)
+![](images/routes.png) <br>
+
+### Forgive my lack of professionalism using github, I'm just learning how to use it.
